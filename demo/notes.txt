@@ -56,7 +56,8 @@ Realtime Project
 Course duration: 60 days -- daily 1hr class / 30 min session practice/doubts
 
 HTML/CSS ----------- 14 days
-Responsive Web Design -- 3 days
+Responsive Web Design ------ 3 days
 JavaScript ----------------------- 20 days
-react ------------------------ 20 days
-Interview Tips ---------------- 3 days
+react ------------------------ 15 days
+Realtime Project (React) ---------------- 5 days
+Interview Preparation/Tips ---------------- 3 days
