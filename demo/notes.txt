@@ -50,4 +50,13 @@ React
 - Redux & state management.
 
 Realtime Project
---------------------------
+-------------------------
+
+
+Course duration: 60 days -- daily 1hr class / 30 min session pracice/doubts
+
+HTML/CSS ----------- 14 days
+Responsive Web Design -- 3 days
+JavaScript ----------------------- 20 days
+react ------------------------ 20 days
+Interview Tips ---------------- 3 days
