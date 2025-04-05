@@ -53,7 +53,7 @@ Realtime Project
 -------------------------
 
 
-Course duration: 60 days -- daily 1hr class / 30 min session pracice/doubts
+Course duration: 60 days -- daily 1hr class / 30 min session practice/doubts
 
 HTML/CSS ----------- 14 days
 Responsive Web Design -- 3 days
