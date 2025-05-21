@@ -1,53 +1,75 @@
-HTML
+1. Introduction to Web
 
-- Basic structure: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`.
-- Semantic elements: `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>`, etc.
-- Forms & validation: `<input>`, `<textarea>`, `<select>`, `pattern`, `required`.
-- Accessibility considerations: ARIA attributes, `alt` for images, keyboard navigation.
+The Web, also known as the World Wide Web (WWW), is a system of interlinked hypertext documents and resources accessed via the Internet. It allows users to view and interact with text, images, videos, and other multimedia content through a web browser.
 
-CSS
+Key Concepts:
 
-- Selectors & specificity (`.class`, `#id`, `element`, `nth-child`).
-- Box model: `margin`, `border`, `padding`, `content`.
-- Flexbox (`display: flex`, `justify-content`, `align-items`).
-- Grid layout (`grid-template-areas`, `grid-row`, `grid-column`).
-- Transitions & animations (`@keyframes`, `transform`, `opacity`).
+Internet vs. Web: The Internet is the global network of computers, while the Web is a service that operates over the Internet.
 
-Bootstrap
+Web Browser: Software application used to access and display web content (e.g., Chrome, Firefox).
 
-- Responsive grid system (`col-sm`, `col-md`, `col-lg`).
-- Predefined components (buttons, cards, modals, navbar).
-- Utility classes (`m-2`, `p-3`, `text-center`, `d-flex`).
-- Customization with Sass.
+URL (Uniform Resource Locator): The address used to access resources on the web.
 
-CSS Preprocessors
-- Variables (`$primary-color` in SCSS).
-- Nested syntax.
-- Mixins (`@mixin button-style`).
-- Functions & loops.
+HTTP/HTTPS: Protocols used for transmitting data on the web securely.
 
-JavaScript
+2. Internet Based Services
 
-- ES6+ features (`let`, `const`, arrow functions, destructuring).
-- DOM manipulation (`document.querySelector`, `addEventListener`).
-- Event delegation.
-- Asynchronous JavaScript (`fetch API`, `async/await`).
+The Internet supports a variety of services that are commonly used for communication, data exchange, entertainment, and business.
 
-Advanced JavaScript
+2.1 Email
 
-- Closures & scopes.
-- Higher-order functions (`map`, `filter`, `reduce`).
-- Prototype inheritance.
-- Modules & bundlers (`import/export` with Webpack).
+One of the earliest and most widely used Internet services.
 
-React
+Allows users to send and receive text messages and attachments.
 
-- Components (`function components`/`class components`).
-- Props & state management.
-- Hooks (`useState`, `useEffect`, `useContext`).
-- Lifecycle methods.
-- Routing (`React Router`).
-- Redux & state management.
+Examples: Gmail, Outlook, Yahoo Mail.
 
-Realtime Project
---------------------------
+2.2 World Wide Web (WWW)
+
+A vast collection of web pages linked together.
+
+Accessible using web browsers.
+
+Includes websites, blogs, e-commerce platforms, news portals, etc.
+
+2.3 File Transfer Protocol (FTP)
+
+Used for transferring files between computers on a network.
+
+Commonly used by web developers and administrators.
+
+2.4 Voice over Internet Protocol (VoIP)
+
+Enables voice communication over the Internet.
+
+Examples: Skype, Zoom, WhatsApp Calls.
+
+2.5 Instant Messaging and Chat
+
+Real-time communication between users.
+
+Examples: WhatsApp, Telegram, Slack, Messenger.
+
+2.6 Online Streaming
+
+Accessing audio and video content on demand.
+
+Examples: YouTube, Netflix, Spotify.
+
+2.7 Cloud Computing
+
+Storing and accessing data and applications over the Internet.
+
+Examples: Google Drive, Dropbox, Microsoft OneDrive.
+
+2.8 E-Commerce
+
+Buying and selling of goods and services online.
+
+Examples: Amazon, Flipkart, eBay.
+
+2.9 Social Media Platforms
+
+Platforms for social networking and sharing content.
+
+Examples: Facebook, Instagram, Twitter, LinkedIn.
