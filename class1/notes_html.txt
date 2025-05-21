@@ -1,0 +1,29 @@
+=======================HTML ==================
+
+HTML Hyper Text Markup Language
+HTML (Hypertext Markup Language) is the standard language used to create and structure web pages on the Internet. It provides the basic building blocks for displaying text, images, and links on websites.
+
+Markup Language
+A markup language is used to structure and format content in documents, telling a browser or software how to display or arrange data. Examples include HTML and XML.
+
+HTML Tags and Elements
+An HTML tag is a specific code element used to define and structure content on a web page. Tags are enclosed in angle brackets (e.g., <p>), typically come in pairs (opening and closing), and tell the browser how to display text, images, or other media elements.
+
+Nested Elements
+Nested tags in HTML refer to elements placed within other elements, creating a hierarchy of elements. 
+This structure allows for more complex layouts, where child elements inherit properties or are affected by their parent elements. 
+
+
+
+  tags =
+   heading tags <h1> <h2> <h3> <h4> <h5> <h6>
+    list_tags = <ul> <ol> <li>
+    paragraph_tags = <p>
+    span_tags = <span>
+    attributes =
+      class = class
+      id = id
+      data = data
+    text = text
+    text_content = text content
+    div_tags = <div>
