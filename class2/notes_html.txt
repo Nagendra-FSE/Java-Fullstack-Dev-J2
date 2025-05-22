@@ -1,0 +1,29 @@
+=======================HTML Part 2 ==================
+
+1. Tags and Attributes
+<br />  <b> </b>  <em> </em> 
+
+attributes
+<p title="this is paragraph" class="description" id="para1" data="just custom attr"> dkjghj hshjsd <p/>
+
+2. Linking Pages With Anchor Tag
+
+<a href="#">this a link</a>
+realtive ./ index / absloute path = /, http
+
+3. img Tag For Images
+<img src="" />
+computer is an electronic device that processes data, executes instructions, and performs tasks through hardware and software to solve problems and automate operations.
+
+
+4. Block Vs. Inline Elements
+
+block : A block-level element always takes up the full width available. A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
+
+
+Inline Elements: Inline elements occupy only as much width as necessary and do not start on a new line.
+
+
+
+
+
