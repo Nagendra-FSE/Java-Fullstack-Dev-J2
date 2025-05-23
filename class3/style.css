@@ -1,0 +1,26 @@
+ main {
+    width: 80%; 
+    margin: 50px auto 60px;
+     background-color: blanchedalmond;
+ }
+ 
+ .div1 {
+       background-color: gold;
+     }
+
+     div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 50px;
+        background-color: #f0f0f0;
+        padding: 50px;
+        border: 1px solid red;
+     }
+
+    
+
+     p {
+      background-color: aqua;
+     }
